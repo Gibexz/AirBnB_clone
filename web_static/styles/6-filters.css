@@ -66,7 +66,7 @@ ul {
 	box-sizing: border-box;
 	position: absolute;
 	border-radius: 4px;
-	padding: 40px;
+	padding: 15px;
 }
 .locations:hover ul.popover {
 	display: block;
@@ -75,12 +75,9 @@ ul {
 	display: block;
 }
 .txt {
-	padding-left: 40px;
-}
-.txt_li {
-	font-size: 16px;
+	padding-left: 50px;
 }
 h2 ul li {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 100;
 }
