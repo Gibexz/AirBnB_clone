@@ -41,7 +41,7 @@
 	/*display: inline-block;*/
 	position: relative;
 	line-height: 0px;
-	padding-top: 2px;
+	padding-top: 3.5px;
 	float: left;
 }
 .locations {
@@ -61,12 +61,13 @@ ul {
 	display: none;
 	background-color: #FAFAFA;
 	border: 1px solid #DDDDDD;
-	line-height: 18px;
+	line-height: 25px;
 	width: 100%;
 	box-sizing: border-box;
 	position: absolute;
 	border-radius: 4px;
-	padding: 15px;
+	padding: 35px;
+	z-index: 1;
 }
 .locations:hover ul.popover {
 	display: block;
